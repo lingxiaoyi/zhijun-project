@@ -17,7 +17,7 @@
 2. 项目2
 3. 项目3
    * 项目1
-   * 项目2
+   * 项目2  git remote add origin git@github.com:lingxiaoyi/zhijun-project.git
 3 其它
 图片
 ![图片名称](http://gitcafe.com/image.png)
